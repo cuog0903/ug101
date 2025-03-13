@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             //LinearEquationResolver.SolverLinearEquation();
-            BMI.CalculatedBMI();
+            //BMI.CalculatedBMI();
+            LeapYear.checkLeapYear();
         }
     }
 }

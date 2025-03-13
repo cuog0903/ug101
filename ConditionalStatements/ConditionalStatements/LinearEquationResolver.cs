@@ -8,6 +8,7 @@ namespace ConditionalStatements
 {
     public class LinearEquationResolver
     {
+     
         public static void SolverLinearEquation()
         {
             Console.WriteLine("Linear  Equation Reslover");

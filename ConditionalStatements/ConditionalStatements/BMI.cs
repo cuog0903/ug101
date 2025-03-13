@@ -8,6 +8,7 @@ namespace ConditionalStatements
 {
     public class BMI
     {
+ 
         public static void CalculatedBMI()
         {
             Console.WriteLine("The program calculate BMI");
