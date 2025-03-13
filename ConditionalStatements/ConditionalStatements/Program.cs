@@ -6,7 +6,8 @@
         {
             //LinearEquationResolver.SolverLinearEquation();
             //BMI.CalculatedBMI();
-            LeapYear.checkLeapYear();
+            //LeapYear.checkLeapYear();
+            DayInMonth.CountDaysInMonth();
         }
     }
 }
